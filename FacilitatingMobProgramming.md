@@ -4,6 +4,8 @@
 * [Mob Programming Book](hhttps://www.mobprogrammingguidebook.com/)
 * [Mob Programming Facilitator Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/blob/master/MobProgrammingFacilitorsGuide_English.md)
 * [Mob Programming checklist](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/blob/master/MobProgrammingFacilitorsGuide_English.checklist.md)
+* [AnyDesk](https://anydesk.com/en)
+* [Approval Test Starter for Java](https://github.com/approvals/approvaltests.java.starterproject)
 
 
 
