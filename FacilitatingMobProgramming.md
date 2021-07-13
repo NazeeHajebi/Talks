@@ -6,7 +6,7 @@
 * [Mob Programming checklist](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/blob/master/MobProgrammingFacilitorsGuide_English.checklist.md)
 * [AnyDesk](https://anydesk.com/en)
 * [Approval Test Starter for Java](https://github.com/approvals/approvaltests.java.starterproject)
-
+* [Facilitating Mob Programming Questionnaire to help to Get Ready](https://github.com/NazeeHajebi/Talks/blob/master/resouces/Facilitating%20Mob%20Programming%20Questionaire.pdf)
 
 
 
